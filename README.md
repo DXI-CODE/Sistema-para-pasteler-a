@@ -1,4 +1,4 @@
-![Logo DxiCode](img/Logo_oficial.png)
+![Logotipo de DxiCode](https://i.ibb.co/FhcdjyJ/Logo-dxicode-transformed.png "DxiCode")
 
 # Sistema-para-pasteler-a
 Hola bienvenido a DxiCode
