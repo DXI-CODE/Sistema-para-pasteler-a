@@ -25,28 +25,23 @@ El sistema cuenta con una página de inicio, calendario de fechas disponibles, c
 
 ## Imágenes ilustrativas
 El sistema actualmente está en proceso de mantenimiento como parte de la optimización necesario según las imperfecciones notadas en la primera entrega,por lo que no está disponible el funcionamiento pero contamos con imágenes ilustrativas de algunas vistas principales desarrolladas por compañeros del equipo de Front en la herramienta FIGMA.
-![Pagina Inicio](img/inicio.png)
+![Captura de pantalla 2025-04-28 123659](https://github.com/user-attachments/assets/c59ffcd8-da10-4cc5-9e51-7bfc53c09d41)
 Este es un prototipo expectativa de la página de inicio.
 
-![Calendario](img/calendario.png)
+![Captura de pantalla 2025-04-28 123752](https://github.com/user-attachments/assets/106d5cfd-1ddd-467b-a239-ee85379ee19d)
 Este es un prototipo expectativa de los calendarios.
 
-![Catalogo](img/catalogo.png)
+![Captura de pantalla 2025-04-28 123809](https://github.com/user-attachments/assets/b4d28cb8-d5fc-4c56-bd55-d89ea78701d7)
 Este es un prototipo expectativa del catálogo de postres.
 
-![Conócenos](img/conocenos.png)
+![Captura de pantalla 2025-04-28 123905](https://github.com/user-attachments/assets/06c4bc11-d912-4cc4-a153-db010b39779f)
 Este es un prototipo expectativa de las reglas de negocio.
 
-![Perfil](img/perfil.png)
+![Captura de pantalla 2025-04-28 123719](https://github.com/user-attachments/assets/a64cbb3d-3b6b-4528-807d-f2adf1973e2a)
 Este es un prototipo expectativa del perfil del consumidor.
 
-![Toma de pedido](img/pedido.png)
+![Captura de pantalla 2025-04-28 123826](https://github.com/user-attachments/assets/ed0c78fb-d5bb-4b61-8503-a7aa2daa29c8)
 Este es un prototipo expectativa de las vistas de toma de pedido.
-
-
-[Ver diagrama de casos de uso](docs/Modelodecasosdeuso.pdf)
-
-
 
 ## Créditos
 
