@@ -57,9 +57,12 @@ Este es un prototipo expectativa de las vistas de toma de pedido.
 - Isacar Jiménez Charis
 - Gerson Antonio Regalado López
 
+**Project Manager**
+-M.C.A Guadalupe Toledo Toledo
+
 ## Contacto
 Para más información sobre nuestros proyectos o colaboraciones, no dudes en ponerte en contacto con nosotros:
-
+📧 Correo Project Manager: gtoledo_1207@hotmail.com
 📧 Correo: dxicode@gmail.com
 📧 Linkedin: [company/dxicode](https://www.linkedin.com/company/dxicode/)
 📧 Discord: [discord/dxicode](https://discord.gg/nvwrrgqDjE)
