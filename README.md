@@ -1,6 +1,6 @@
 ![Logotipo de DxiCode](https://i.ibb.co/FhcdjyJ/Logo-dxicode-transformed.png "DxiCode")
 
-# Sistema-para-pasteler-a
+# Sistema-para-pastelería
 Hola bienvenido a DxiCode
 
 # DxiCode - Soluciones al Día
@@ -61,4 +61,5 @@ Este es un prototipo expectativa de las vistas de toma de pedido.
 Para más información sobre nuestros proyectos o colaboraciones, no dudes en ponerte en contacto con nosotros:
 
 📧 Correo: dxicode@gmail.com
-
+📧 Linkedin: [company/dxicode](https://www.linkedin.com/company/dxicode/)
+📧 Discord: [discord/dxicode](https://discord.gg/nvwrrgqDjE)
